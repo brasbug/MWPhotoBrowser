@@ -25,10 +25,10 @@ Pod::Spec.new do |s|
                      'master/Preview/MWPhotoBrowser5.png',
                      'https://raw.github.com/mwaterfall/MWPhotoBrowser/' \
                      'master/Preview/MWPhotoBrowser6.png']
-    s.homepage = 'https://github.com/mwaterfall/MWPhotoBrowser'
+    s.homepage = 'https://github.com/brasbug/MWPhotoBrowser'
     s.author = { 'Michael Waterfall' => 'michaelwaterfall@gmail.com' }
     s.source = {
-        :git => 'https://github.com/mwaterfall/MWPhotoBrowser.git',
+        :git => 'https://github.com/brasbug/MWPhotoBrowser.git',
         :tag => '1.4.1'
     }
     s.platform = :ios, '5.1.1'
